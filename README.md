@@ -1,4 +1,4 @@
-# MERN : Book Search Engine
+# Redux Store : E-Commerce Store
 
 ## Purpose
 
@@ -11,7 +11,7 @@ Some features of the app are:
 - Users are able to remove items from their carts. 
 - Users are able to view their past orders.
 
-The application can be found at: https://intense-forest-13246.herokuapp.com/
+The application can be found at: https://shielded-ravine-53453.herokuapp.com/
 
 ---
 
